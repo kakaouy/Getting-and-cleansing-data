@@ -13,6 +13,9 @@ script: R Project.R that does the following.
 
 data2.txt: data result
 
+Codebook for tidy_data: A codebook is a technical document that provides an
+overview of and information about the variables in a dataset. 
+
 
 ## Script
 
